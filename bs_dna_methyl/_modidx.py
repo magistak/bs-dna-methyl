@@ -5,5 +5,9 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://magistak.github.io',
                 'git_url': 'https://github.com/magistak/bs-dna-methyl',
                 'lib_path': 'bs_dna_methyl'},
-  'syms': { 'bs_dna_methyl.download_processed': { 'bs_dna_methyl.download_processed.use_get_projects': ( 'download_processed.html#use_get_projects',
-                                                                                                         'bs_dna_methyl/download_processed.py')}}}
+  'syms': { 'bs_dna_methyl.download_processed': { 'bs_dna_methyl.download_processed.Geofetcher': ( 'download_processed.html#geofetcher',
+                                                                                                   'bs_dna_methyl/download_processed.py'),
+                                                  'bs_dna_methyl.download_processed.Geofetcher.get_projects': ( 'download_processed.html#geofetcher.get_projects',
+                                                                                                                'bs_dna_methyl/download_processed.py'),
+                                                  'bs_dna_methyl.download_processed._get_projects_cached': ( 'download_processed.html#_get_projects_cached',
+                                                                                                             'bs_dna_methyl/download_processed.py')}}}
