@@ -5,6 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://magistak.github.io',
                 'git_url': 'https://github.com/magistak/bs-dna-methyl',
                 'lib_path': 'bs_dna_methyl'},
-  'syms': { 'bs_dna_methyl.core': {'bs_dna_methyl.core.foo': ('core.html#foo', 'bs_dna_methyl/core.py')},
-            'bs_dna_methyl.download_processed': { 'bs_dna_methyl.download_processed.use_get_projects': ( 'download_processed.html#use_get_projects',
+  'syms': { 'bs_dna_methyl.download_processed': { 'bs_dna_methyl.download_processed.use_get_projects': ( 'download_processed.html#use_get_projects',
                                                                                                          'bs_dna_methyl/download_processed.py')}}}
